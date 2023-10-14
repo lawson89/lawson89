@@ -1,6 +1,6 @@
 👋 Hi, I’m Rick
 
-I’m interested in Django, Python, Java and AWS
+I’m interested in Lua, Django, Python, Java and AWS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lawson89&show_icons=true&count_private=true)
 
