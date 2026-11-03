@@ -1,6 +1,6 @@
 👋 Hi, I’m Rick
 
-I’m currently interested in Java, Spring, Lua, Python, Pascal, Htmx, Unpoly and SQL
+My current interests are retrocomputing, Java, Spring, Lua, Pascal, Htmx and SQL
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lawson89&show_icons=true&count_private=true)
 
