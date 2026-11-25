@@ -1,6 +1,6 @@
 👋 Hi, I’m Rick
 
-My current interests are retrocomputing, Java, Spring, Lua, Pascal, Htmx and SQL
+My current interests are retrocomputing, Java, Spring, Go, AI, Lua, Pascal, Basic, Htmx and SQL
 
 <!---
 lawson89/lawson89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
